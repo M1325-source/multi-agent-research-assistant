@@ -12,6 +12,23 @@
 - Playwright
 - Streamlit UI
 
+📸 Screenshots
+
+<img width="656" height="316" alt="image" src="https://github.com/user-attachments/assets/8b3e402c-ed6d-4b0a-97ce-84f530914712" />
+
+
+
+
+
+<img width="656" height="345" alt="image" src="https://github.com/user-attachments/assets/2fcbcb9f-9d08-4640-8931-694510a66337" />
+
+
+
+
+
+
+
+
 ## 🚀 How to Run
 1. Install requirements:
 ```bash
